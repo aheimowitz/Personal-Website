@@ -1,0 +1,18 @@
+#profpic{
+	float:left;
+	width:35%;
+	margin: 35px 0px 0px 60px;
+}
+#name_title{
+	font-size: 300%;
+	text-decoration: underline;
+}
+#top-wrapper{
+	width:100%;
+}
+#top-wrapper p{
+	float:right;
+	width:52%;
+	margin:30px 50px 0 0;
+	position:relative;
+}
