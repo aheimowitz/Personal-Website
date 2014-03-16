@@ -1,0 +1,15 @@
+#resume-wrapper{
+      width: 1000px;
+      height: 85%;
+      min-height: 1100px;
+      -moz-box-shadow:
+        inset 5px 0 10px -5px #333,
+        inset -5px 0 10px -5px #333;
+      -webkit-box-shadow:
+        inset 5px 0 10px -5px #333,
+        inset -5px 0 10px -5px #333;
+      box-shadow:
+        inset 5px 0 10px -5px #333,
+        inset -5px 0 10px -5px #333;
+      margin: 0 auto;
+}
